@@ -1,0 +1,52 @@
+{
+    "name": "node-developer",
+    "displayName": "Node developer pack",
+    "description": "A super pack for Node.js development with Javascript or Typescript.",
+    "version": "0.1.0",
+    "publisher": "kennethfreitas",
+    "icon": "node-developer.png",
+    "repository": "https://github.com/kennethfreitas/node-developer-pack",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Node",
+        "Javascript",
+        "Typescript",
+        "Development",
+        "Web",
+        "Back end"
+    ],
+    "extensionPack": [
+        "redhat.vscode-yaml",
+        "ritwickdey.LiveServer",
+        "aaron-bond.better-comments",
+        "christian-kohler.npm-intellisense",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "eg2.vscode-npm-script",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "juliettepretot.lucy-vscode",
+        "mgmcdermott.vscode-language-babel",
+        "mikestead.dotenv",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode.vscode-typescript-next",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "oderwat.indent-rainbow",
+        "PKief.material-icon-theme",
+        "rbbit.typescript-hero",
+        "thenikso.github-plus-theme",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
