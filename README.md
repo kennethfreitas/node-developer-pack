@@ -1,12 +1,10 @@
 # Node Developer Pack
-This pack have some usefull extensions for Javascript and Typescript developers. Also includes 2 themes one light and one dark for your choice :)
 
-## Themes
-- [Lucy](https://marketplace.visualstudio.com/items?itemName=juliettepretot.lucy-vscode) - Dark Theme
-
-- [GitHub Plus Theme](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme) - Light Theme
+This pack have some usefull extensions for Javascript and Typescript developers.
+You can find a cool theme in [VSCodeThemes](https://vscodethemes.com/)
 
 ## Extensions Included
+
 - [YAML](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support.
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a local development server with live reload feature for static & dynamic pages.
@@ -39,8 +37,6 @@ This pack have some usefull extensions for Javascript and Typescript developers.
 
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - VS Code extension that enables the nightly build of TypeScript (typescript@next) as VS Code's built-in TypeScript version used to power JavaScript and TypeScript IntelliSense.
 
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - Adds tslint to VS Code using the TypeScript TSLint language service plugin.
-
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - This extension colorizes the indentation in front of your text alternating four different colors on each step. Some may find it helpful in writing code for Nim or Python.
 
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Get the Material Design icons into your VS Code.
@@ -48,4 +44,3 @@ This pack have some usefull extensions for Javascript and Typescript developers.
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - TypeScript Hero is a vscode extension that makes your life easier. When you are coding a lot of TypeScript you may want vscode to organize your imports.
 
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - The Visual Studio IntelliCode extension provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
-
