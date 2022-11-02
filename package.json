@@ -2,7 +2,7 @@
   "name": "node-developer",
   "displayName": "Node developer pack",
   "description": "A super pack for Node.js development with Javascript or Typescript.",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "publisher": "kennethfreitas",
   "icon": "node-developer.png",
   "repository": "https://github.com/kennethfreitas/node-developer-pack",
