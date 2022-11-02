@@ -1,46 +1,45 @@
 {
-    "name": "node-developer",
-    "displayName": "Node developer pack",
-    "description": "A super pack for Node.js development with Javascript or Typescript.",
-    "version": "0.3.0",
-    "publisher": "kennethfreitas",
-    "icon": "node-developer.png",
-    "repository": "https://github.com/kennethfreitas/node-developer-pack",
-    "engines": {
-        "vscode": "^1.49.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "galleryBanner": {
-        "color": "#0273D4",
-        "theme": "dark"
-    },
-    "keywords": [
-        "Node",
-        "Javascript",
-        "Typescript",
-        "Development",
-        "Web",
-        "Back end"
-    ],
-    "extensionPack": [
-        "redhat.vscode-yaml",
-        "aaron-bond.better-comments",
-        "christian-kohler.npm-intellisense",
-        "CoenraadS.bracket-pair-colorizer-2",
-        "dbaeumer.vscode-eslint",
-        "eamodio.gitlens",
-        "EditorConfig.EditorConfig",
-        "eg2.vscode-npm-script",
-        "esbenp.prettier-vscode",
-        "mgmcdermott.vscode-language-babel",
-        "mikestead.dotenv",
-        "ms-azuretools.vscode-docker",
-        "ms-vscode.vscode-typescript-next",
-        "oderwat.indent-rainbow",
-        "PKief.material-icon-theme",
-        "rbbit.typescript-hero",
-        "VisualStudioExptTeam.vscodeintellicode"
-    ]
+  "name": "node-developer",
+  "displayName": "Node developer pack",
+  "description": "A super pack for Node.js development with Javascript or Typescript.",
+  "version": "0.3.0",
+  "publisher": "kennethfreitas",
+  "icon": "node-developer.png",
+  "repository": "https://github.com/kennethfreitas/node-developer-pack",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+  },
+  "keywords": [
+    "Node",
+    "Javascript",
+    "Typescript",
+    "Development",
+    "Web",
+    "Back end"
+  ],
+  "extensionPack": [
+    "redhat.vscode-yaml",
+    "aaron-bond.better-comments",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "mgmcdermott.vscode-language-babel",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.vscode-typescript-next",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "rbbit.typescript-hero",
+    "rangav.vscode-thunder-client",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
 }
